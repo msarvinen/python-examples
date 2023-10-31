@@ -1,5 +1,4 @@
-This example demonstrates basic usage of the python3 scikit-learn
-k-nearest neigbor (KNN) supervised machine learning model
+### This example demonstrates basic usage of the python3 scikit-learn k-nearest neighbor (KNN) supervised machine learning model
 
-USAGE:
-python3 ml-knn.py
+#### USAGE:
+_python3 ml-knn.py_
